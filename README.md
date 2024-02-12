@@ -11,3 +11,5 @@ git clone https://github.com/pytorch/fairseq
 cd fairseq
 pip install --editable ./
 ```
+
+Maybe the `pip install` will take a long time, and you can install some relevant packages in advance. (Refer to the issue)
